@@ -1,0 +1,40 @@
+{
+  "packs": [
+    {
+      "id": "dungeon-crawl",
+      "version": "1.1",
+      "name": {
+        "zh": "地城爬行",
+        "en": "Dungeon crawl"
+      },
+      "description": {
+        "zh": "四人小队一间一间往下走,最深处是深渊督军(2d6 战斗、火把、药水)",
+        "en": "A crew of four goes down room by room to the pit warlord (2d6 fights, torches, potions)"
+      }
+    },
+    {
+      "id": "narrative-check",
+      "version": "1.0",
+      "name": {
+        "zh": "叙事检定",
+        "en": "Narrative checks"
+      },
+      "description": {
+        "zh": "2d6 + 技能对难度的检定,五种技能各是一个内心的声音,恐惧和体力两条血条,同伴的恐惧和信任",
+        "en": "2d6 + skill against a difficulty, five skills that are inner voices, fear and stamina, companions' fear and trust"
+      }
+    },
+    {
+      "id": "turn-battle",
+      "version": "1.0",
+      "name": {
+        "zh": "回合战斗",
+        "en": "Turn battle"
+      },
+      "description": {
+        "zh": "三人小队对一群敌人,按速度轮流出手(攻击、技能、防御、药水,中毒和眩晕)",
+        "en": "A party of three against a band of foes, taking turns by speed (attacks, arts, guarding, potions, poison and stun)"
+      }
+    }
+  ]
+}
