@@ -1,1 +1,102 @@
-[]
+[
+  {
+    "slug": "turn-battle",
+    "path": "systems/turn-battle/template",
+    "title": "回合战斗 / Turn battle",
+    "description": "规则包「回合战斗」的模板:山道上的三对三。 / The Turn battle pack's template: three on three on a mountain path.",
+    "languages": [
+      "zh",
+      "en"
+    ]
+  },
+  {
+    "slug": "dungeon-crawl",
+    "path": "systems/dungeon-crawl/template",
+    "title": "地城爬行 / Dungeon crawl",
+    "description": "规则包「地城爬行」的模板:四人小队一间一间往下走。 / The Dungeon crawl pack's template: a crew of four, room by room.",
+    "languages": [
+      "zh",
+      "en"
+    ]
+  },
+  {
+    "slug": "narrative-check",
+    "path": "systems/narrative-check/template",
+    "title": "叙事检定 / Narrative checks",
+    "description": "规则包「叙事检定」的模板:半夜的敲门声。 / The Narrative checks pack's template: a knock in the night.",
+    "languages": [
+      "zh",
+      "en"
+    ]
+  },
+  {
+    "slug": "rpg-10-1",
+    "path": "tutorial/rpg/10.1 示例",
+    "title": "教程 10.1 地窖 / Tutorial 10.1: The cellar",
+    "description": "实体:刷出来、会被打掉的敌人。 / Entities: foes that come and go.",
+    "languages": [
+      "zh",
+      "en"
+    ]
+  },
+  {
+    "slug": "rpg-10-2",
+    "path": "tutorial/rpg/10.2 示例",
+    "title": "教程 10.2 旧盐矿 / Tutorial 10.2: The old salt mine",
+    "description": "一个小地城:队伍、敌人、表里刷怪。 / A small dungeon: a party, foes, monsters from a table.",
+    "languages": [
+      "zh",
+      "en"
+    ]
+  },
+  {
+    "slug": "rpg-10-3",
+    "path": "tutorial/rpg/10.3 示例",
+    "title": "教程 10.3 三兄妹下地城 / Tutorial 10.3: The siblings go down",
+    "description": "用规则包:只换队伍和火把。 / On a rule pack: only the party and the torches changed.",
+    "languages": [
+      "zh",
+      "en"
+    ]
+  },
+  {
+    "slug": "rpg-10-4",
+    "path": "tutorial/rpg/10.4 示例",
+    "title": "教程 10.4 穿过沼泽 / Tutorial 10.4: Across the marsh",
+    "description": "物品数量、装备栏、状态。 / Counted items, equipment slots, statuses.",
+    "languages": [
+      "zh",
+      "en"
+    ]
+  },
+  {
+    "slug": "rpg-10-5-well",
+    "path": "tutorial/rpg/10.5 示例/冒险一 古井",
+    "title": "教程 10.5 冒险一:古井 / Tutorial 10.5: Adventure one, the well",
+    "description": "成长:经验和升级(角色卡要在 Obsidian 里才会写)。 / Progression: experience and levels (character sheets are written in Obsidian only).",
+    "languages": [
+      "zh",
+      "en"
+    ]
+  },
+  {
+    "slug": "rpg-10-6",
+    "path": "tutorial/rpg/10.6 示例",
+    "title": "教程 10.6 过山 / Tutorial 10.6: Over the pass",
+    "description": "回合战斗包:一个故事里打两场。 / The Turn battle pack: two battles in one story.",
+    "languages": [
+      "zh",
+      "en"
+    ]
+  },
+  {
+    "slug": "rpg-10-7",
+    "path": "tutorial/rpg/10.7 示例",
+    "title": "教程 10.7 停电的图书馆 / Tutorial 10.7: The library in the dark",
+    "description": "叙事检定包:检定、心声、同伴。 / The Narrative checks pack: checks, voices, a companion.",
+    "languages": [
+      "zh",
+      "en"
+    ]
+  }
+]
